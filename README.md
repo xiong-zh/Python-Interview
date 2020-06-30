@@ -1,2 +1,47 @@
 ## 存储Python学习中遇到问题和面试素材
 
+
+[目录]()
+- [Python](python)
+    - [python基础语法](python/basic)
+        - [python循环语句](python/basic)
+        - [python异常处理](python/basic)
+        - [python关键字](python/basic)
+        
+    - [python语法进阶](python/advanced)
+        - [python魔术方法](python/advanced)
+        - [python网络编程](python/advanced)
+        - [python文件操作](python/advanced)
+        
+- [Web开发](web)
+    - [Django](web/django)
+        - [常用组件](web/django)
+        - [常用命令](web/django/)
+    - [Flask](web/flask)
+        - [常用命令](web/flask)
+        - [常用组件](web/flask)
+        - [注册模块](web/flask)
+    - [Tornado](web/tornado)
+        - [常用命令](web/tornado)
+        - [常用组件](web/tornado)
+        - [注册模块](web/tornado) 
+        
+- [数据库](database)
+    - [MySQL](database/mysql)
+        - [基础命令](database/mysql)
+        - [进阶用法](database/mysql)
+    - [MongoDB](database/mongodb)
+        - [基础命令](database/mongodb)
+        - [进阶用法](database/mongodb)
+    - [Redis](database/redis)
+        - [基础命令](database/redis)
+        - [进阶用法](database/redis)
+        
+- [网络爬虫](crawler)
+    - [常用库](crawler/)
+    - [反爬](crawler/)
+    - [进阶](crawler/)
+
+- [其他](other)
+    - [常用工具](other/tool)
+    - [文章参考](other/)
