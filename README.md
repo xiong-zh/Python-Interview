@@ -1,5 +1,6 @@
-## 存储Python学习中遇到问题和面试素材
+## Python工程师成长之路
 
+更多信息请访问：[官方网站](https://zhangxiong.net)
 
 [目录]()
 - [Python](python)
@@ -8,10 +9,10 @@
         - [python异常处理](python/basic)
         - [python关键字](python/basic)
         
-    - [python语法进阶](python/advanced)
-        - [python魔术方法](python/advanced)
-        - [python网络编程](python/advanced)
-        - [python文件操作](python/advanced)
+    - [python语法进阶](python/advance)
+        - [python魔术方法](python/advance)
+        - [python网络编程](python/advance)
+        - [python文件操作](python/advance)
         
 - [Web开发](web)
     - [Django](web/django)
@@ -44,4 +45,7 @@
 
 - [其他](other)
     - [常用工具](other/tool)
-    - [文章参考](other/)
+        - [git与GitHub](other/tool/)
+        - [开发工具的使用](other/tool/)
+    - [书籍｜文章参考](other/)
+    
