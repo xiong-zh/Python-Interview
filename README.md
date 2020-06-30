@@ -40,8 +40,20 @@
         
 - [网络爬虫](crawler)
     - [常用库](crawler/)
+        - [BeautifulSoup](crawler/common_lib/BeautifulSoup)
+        - [PySpider](crawler/common_lib/PySpider)
+        - [Requests](crawler/common_lib/requests)
+        - [Scrapy](crawler/common_lib/scrapy)
+        - [Urllib](crawler/common_lib/urllib)
+        
     - [反爬](crawler/)
     - [进阶](crawler/)
+
+- [数据分析](data_analysis)
+    - [数据可视化](data_analysis/matplotlib)
+    - [Numpy](data_analysis/numpy)
+    - [Pandas](data_analysis/pandas)
+
 
 - [其他](other)
     - [常用工具](other/tool)
