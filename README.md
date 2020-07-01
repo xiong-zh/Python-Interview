@@ -1,14 +1,14 @@
 ## Python工程师成长之路
 
-更多信息请访问：[官方网站](https://zhangxiong.net)
+更多信息请访问：[zhangxiong.net](https://zhangxiong.net)
 
-[目录]()
-- [Python](python)
+[Python工程师成长之路目录]()
+
+- [Python](python/)
     - [python基础语法](python/basic)
         - [python循环语句](python/basic)
         - [python异常处理](python/basic)
-        - [python关键字](python/basic)
-        
+        - [python关键字](python/basic) 
     - [python语法进阶](python/advance)
         - [python魔术方法](python/advance)
         - [python网络编程](python/advance)
@@ -45,7 +45,6 @@
         - [Requests](crawler/common_lib/requests)
         - [Scrapy](crawler/common_lib/scrapy)
         - [Urllib](crawler/common_lib/urllib)
-        
     - [反爬](crawler/)
     - [进阶](crawler/)
 
