@@ -48,9 +48,3 @@ class Person():
 if __name__ == '__main__':
     huangxiang = Person('Huangxiang', 26)
     print(huangxiang)
-    import os
-    print(os)
-
-"""
-
-"""
